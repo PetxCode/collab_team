@@ -1,2 +1,4 @@
 flask 
 pymongo==3.13
+langchain_core
+langchain_google_genai
