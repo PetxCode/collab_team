@@ -1,2 +1,5 @@
 flask 
-pymongo=="3.13"
+pymongo==3.13
+langchain_core
+langchain_community
+langchain_google_genai
